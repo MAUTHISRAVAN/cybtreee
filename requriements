@@ -1,0 +1,43 @@
+Depending on your business needs and use cases for choosing an ASM platform, some functionalities may be more important than others. 
+
+In The External Attack Surface Management Landscape, Q1 2023, Forrester listed several core functionalities to look for in attack surface management platforms, including:
+
+External/internet-facing asset discovery 
+Asset identification 
+Asset and business relationship mapping 
+Active and passive vulnerability scanning 
+Open ports and services monitoring 
+URL and IP range tracking 
+Certificate monitoring 
+Exposure/risk prioritization 
+Custom dashboarding and reporting  
+Human-Based
+With this type of ASM vendor, expert human pentesters conduct penetration testing and vulnerability assessments to test the external network, typically on a quarterly basis. 
+
+Pure Technology-Driven
+Technology-driven ASM solutions involve tools or scanners that review the full attack surface (aka the assets a business has on the Internet) and use scores to prioritize and remediate impactful findings.  
+
+Hybrid
+A hybrid approach involves combining both human intuition and analysis with advanced, automated technology to more effectively identify vulnerabilities and filter prioritized alerts. 
+
+Partnering with a hybrid ASM vendor is the most impactful option because it enables verified prioritization of results to ensure only the most relevant alerts are delivered, resulting in the best ROI on your cybersecurity investment.
+
+Questions to Ask Attack Surface Management Vendors 
+To effectively evaluate an ASM solution and select the right partner that aligns with your business requirements, develop a standardized list of questions to ask each vendor before making a decision.
+
+Questions to consider asking include: 
+
+Do you offer a human-based, technology-driven, or hybrid approach to attack surface management? 
+How often are tests conducted? 
+Do you offer continuous pentesting? If so, how do you approach it? 
+How broad and up-to-date is the data?  
+How soon do new assets appear and get recognized by the ASM tool? 
+Do you support exposure remediation once vulnerabilities are discovered? How? 
+Do I have access to all of my scan data if needed?  
+What does the onboarding process look like? How much time is required of my team?  
+What’s your process for managing and prioritizing alerts? 
+How will you help me understand the most critical assets or vulnerabilities on my attack surface? 
+What are the critical risk factors most likely to impact the business?  
+Who are the potential attackers threatening my business?  
+Which vulnerabilities are the most important to prioritize with remediation?  
+Which exposures are threat actors most likely to exploit? 
